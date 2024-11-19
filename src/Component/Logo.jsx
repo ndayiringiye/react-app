@@ -10,6 +10,7 @@ const Logo = () => {
         <img src="https://img.icons8.com/?size=100&id=8824&format=png&color=000000" alt="twitter" className='h-5  w-5' />
         <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" alt="linkedin" className='h-5  w-5' />
         </div>
+        
     </div>
   )
 }
